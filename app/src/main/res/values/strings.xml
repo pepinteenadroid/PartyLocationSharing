@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">PepinTeen</string>
+    <string name="app_name">Party Location</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
